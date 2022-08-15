@@ -1,3 +1,7 @@
+Plz Checkout the website here- https://sutkarsh-s.github.io/confusion-resto/
+
+credits- Jogesh K. Muppala(coursera instructor)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
